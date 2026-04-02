@@ -1,6 +1,6 @@
 # Hi, I'm hanzhou 👋
 
-🎓 Master’s in Data Science & Society  
+🎓 Dual Master’s in Data Science & Management (Business & Operations Focus)
 📊 Data Analytics | Machine Learning | Dashboards  
 📍 Netherlands
 **Entry-level Data Analyst focused on practical analytics & business dashboards**
